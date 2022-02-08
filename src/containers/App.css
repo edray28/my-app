@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Doom2016";
+  font-style: normal;
+  font-variant: normal;
+  src: local("Doom2016"), url("Doom2016.ttf") format("ttf");
+}
+
+h1 {
+  font-family: "Doom2016", "Rockwell";
+  font-weight: 200;
+  color: chartreuse;
+}
