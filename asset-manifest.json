@@ -1,16 +1,18 @@
 {
-  "files": {
-    "main.css": "/my-app/static/css/main.0f606185.css",
-    "main.js": "/my-app/static/js/main.b58325c6.js",
-    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
-    "static/media/Doom2016.ttf": "/my-app/static/media/Doom2016.d972c85026ecc6e82a79.ttf",
-    "index.html": "/my-app/index.html",
-    "main.0f606185.css.map": "/my-app/static/css/main.0f606185.css.map",
-    "main.b58325c6.js.map": "/my-app/static/js/main.b58325c6.js.map",
-    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.0f606185.css",
-    "static/js/main.b58325c6.js"
-  ]
+  "main.css": "/my-app/static/css/main.30545427.chunk.css",
+  "main.js": "/my-app/static/js/main.6a6e8e1e.chunk.js",
+  "main.js.map": "/my-app/static/js/main.6a6e8e1e.chunk.js.map",
+  "static/js/1.7ab2393a.chunk.js": "/my-app/static/js/1.7ab2393a.chunk.js",
+  "static/js/1.7ab2393a.chunk.js.map": "/my-app/static/js/1.7ab2393a.chunk.js.map",
+  "static/css/2.0b3c5563.chunk.css": "/my-app/static/css/2.0b3c5563.chunk.css",
+  "static/js/2.8692c13c.chunk.js": "/my-app/static/js/2.8692c13c.chunk.js",
+  "static/js/2.8692c13c.chunk.js.map": "/my-app/static/js/2.8692c13c.chunk.js.map",
+  "runtime~main.js": "/my-app/static/js/runtime~main.8e74a222.js",
+  "runtime~main.js.map": "/my-app/static/js/runtime~main.8e74a222.js.map",
+  "static/media/App.css": "/my-app/static/media/Doom2016.0ad3ad51.ttf",
+  "static/css/main.30545427.chunk.css.map": "/my-app/static/css/main.30545427.chunk.css.map",
+  "static/css/2.0b3c5563.chunk.css.map": "/my-app/static/css/2.0b3c5563.chunk.css.map",
+  "index.html": "/my-app/index.html",
+  "precache-manifest.9a6aa5862472da6df255092f36ba8f5b.js": "/my-app/precache-manifest.9a6aa5862472da6df255092f36ba8f5b.js",
+  "service-worker.js": "/my-app/service-worker.js"
 }
